@@ -38,6 +38,10 @@ Para desplegar la API usando Docker, sigue estos pasos:
 
    Se recomienda que el nombre del docker creado sea `me-social-auth`
 
+5. **Puerto utilizado:**
+
+   El puerto que escucha el servidor python es el puerto 5000, es el puerto que deberás de utilizar cuando ejecutes el contenedor.
+
 ## Endpoints
 
 La API expone los siguientes endpoints:
